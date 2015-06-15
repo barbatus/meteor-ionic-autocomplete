@@ -1,0 +1,3 @@
+[submodule "ion-autocomplete"]
+	path = ion-autocomplete
+	url = https://github.com/guylabs/ion-autocomplete
