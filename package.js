@@ -9,7 +9,6 @@ Package.describe({
 Package.onUse(function(api) {
   api.versionsFrom('1.0');
   api.use('urigo:ionic@1.0.0', ['client']);
-  api.imply('urigo:ionic', ['client']);
 
   api.addFiles([
     'ion-autocomplete/src/ion-autocomplete.css',
