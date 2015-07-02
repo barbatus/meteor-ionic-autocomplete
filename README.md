@@ -1,4 +1,4 @@
-#Ionic autocomplete dropdown
+# Ionic autocomplete dropdown
 > Configurable Ionic directive for an autocomplete dropdown.
 
 This is a Meteor package for this repo [https://github.com/guylabs/ion-autocomplete] (https://github.com/guylabs/ion-autocomplete).
