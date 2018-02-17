@@ -1,7 +1,7 @@
 Package.describe({
   name: 'barbatus:ionic-autocomplete',
   summary: 'Ionic autocomplete control',
-  version: '0.2.2',
+  version: '0.4.0',
   git: 'https://github.com/barbatus/meteor-ionic-autocomplete',
   documentation: 'README.md'
 });
